@@ -20,7 +20,7 @@
     "csv-parser": "^3.1.0",
     "dompurify": "^3.2.3",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "helmet": "^8.0.0",
     "instagram-private-api": "^1.46.1",
     "jsdom": "^26.0.0",
